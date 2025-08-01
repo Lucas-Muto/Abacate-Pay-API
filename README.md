@@ -319,9 +319,8 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 🆘 Suporte
 
-- 📧 Email: seu-email@exemplo.com
-- 💬 Discord: [Link do servidor]
-- 🐛 Issues: [GitHub Issues]
+- 📧 Email: contatolucasmuto@gmail.com
+- 💬 Discord: muto6261
 
 ---
 
