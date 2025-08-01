@@ -4,7 +4,7 @@ Backend intermediário entre frontend e a API do AbacatePay para processamento d
 
 ## 📺 Tutorial em Vídeo
 
-🎥 **Tutorial Completo no YouTube:** [LINK_DO_VIDEO_AQUI]
+🎥 **Tutorial Completo no YouTube:** [https://www.youtube.com/watch?v=NiMDZzrXYWQ]
 
 *Assista ao vídeo para um guia visual completo de instalação e configuração!*
 
@@ -26,7 +26,7 @@ Backend intermediário entre frontend e a API do AbacatePay para processamento d
 ### Pré-requisitos
 - [Node.js](https://nodejs.org/) (versão 14 ou superior)
 - [Git](https://git-scm.com/)
-- Conta no [AbacatePay](https://app.abacatepay.com/)
+- Conta no [AbacatePay](https://www.abacatepay.com)
 
 ### Passo 1: Baixar o Projeto
 ```bash
@@ -65,7 +65,7 @@ PORT=3000
 
 ### Passo 4: Obter Chave da API AbacatePay
 
-1. Acesse [https://app.abacatepay.com/](https://app.abacatepay.com/)
+1. Acesse [https://docs.abacatepay.com/](https://docs.abacatepay.com/pages/introduction)
 2. Crie uma conta ou faça login
 3. Vá em **Configurações** → **API Keys**
 4. Copie sua chave de desenvolvimento
